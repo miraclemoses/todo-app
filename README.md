@@ -4,7 +4,7 @@
 ## Getting Started
 
 ```bash
-git clone https://github.com/miraclemo/todo-app
+git clone https://github.com/miraclemoses/todo-app.git
 npm run dev
 # or
 yarn dev
