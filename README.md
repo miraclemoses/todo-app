@@ -5,6 +5,8 @@
 
 ```bash
 git clone https://github.com/miraclemoses/todo-app.git
+cd todo-app
+npm i redux react-redux
 npm run dev
 # or
 yarn dev
